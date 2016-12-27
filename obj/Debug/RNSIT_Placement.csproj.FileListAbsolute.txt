@@ -1,0 +1,5 @@
+C:\Users\Priyesh\Desktop\RNSIT_placement\RNSIT_Placement\RNSIT_Placement\bin\RNSIT_Placement.dll
+C:\Users\Priyesh\Desktop\RNSIT_placement\RNSIT_Placement\RNSIT_Placement\bin\RNSIT_Placement.pdb
+C:\Users\Priyesh\Desktop\RNSIT_placement\RNSIT_Placement\RNSIT_Placement\obj\Debug\RNSIT_Placement.dll
+C:\Users\Priyesh\Desktop\RNSIT_placement\RNSIT_Placement\RNSIT_Placement\obj\Debug\RNSIT_Placement.pdb
+C:\Users\Priyesh\Desktop\RNSIT_placement\RNSIT_Placement\RNSIT_Placement\obj\Debug\RNSIT_Placement.csprojResolveAssemblyReference.cache

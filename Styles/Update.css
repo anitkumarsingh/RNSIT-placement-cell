@@ -1,0 +1,43 @@
+﻿  #updates 
+{
+margin: 0;
+	padding: 0;
+}
+
+#updates ul {
+	margin: 0;
+	list-style: none;
+}
+
+#updates h3 {
+	margin: 0;
+	font: bold x-small Verdana, Arial, Helvetica, sans-serif;
+}
+
+#updates p {
+	margin-bottom: 1.4em;
+	font-size: smaller;
+	line-height: normal;
+}
+
+.boxed .content {
+	padding: 15px;
+}
+.boxed {
+	margin-bottom: 20px;
+}
+.boxed .title {
+	height: 35px;
+	margin-left:50px;
+	padding: 4px 0 0 15px;
+	background: url(/images/img05.gif) no-repeat;
+	
+    
+	font-size: 0.4em;
+	color: #BB1C1C;
+}
+
+.boxed .content {
+	padding: 15px;
+}
+
